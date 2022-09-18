@@ -2,7 +2,7 @@
 <b style="margin-left:3%">CerCal</b>
  
 # Description :
-<b style="margin-left:3%" ><li> this is Certificate Calculator CRUD App for banking sector </li> 
+<b><li> this is Certificate Calculator CRUD App for banking sector</li> 
    <li> User Can : Add New Certificate </li> 
    <li> Edit on Certificate Ratio </li> 
    <li> Delete Certificate </li> 
