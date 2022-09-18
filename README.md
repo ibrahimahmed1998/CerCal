@@ -1,9 +1,11 @@
-# PowerApps---Cert-Calculator
+# App Name : 
+ <b>CerCal</b>
+ 
 # Description :
- this is Certificate Calculator for banking sector 
+ <b>this is Certificate Calculator for banking sector </b>
  
 # Tools :
- Power Apps - Microsoft 365
+ <b>Power Apps - Microsoft 365</b>
  
 # Link : <a href="https://apps.powerapps.com/play/e/default-6bf95165-4113-4188-9b7b-cb6c0c198a5b/a/776fffb2-0929-40b6-8339-9d5aaefbc9ca?tenantId=6bf95165-4113-4188-9b7b-cb6c0c198a5b&source=portal">Click Here To Open App</a>
  
