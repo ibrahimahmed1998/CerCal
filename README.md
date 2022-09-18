@@ -2,7 +2,16 @@
  <b>CerCal</b>
  
 # Description :
- <b>this is Certificate Calculator for banking sector </b>
+ <b>
+   <li> this is Certificate Calculator CRUD App for banking sector </li> 
+   <li> User Can : Add New Certificate </li> 
+   <li> Edit on Certificate Ratio </li> 
+   <li> Delete Certificate </li> 
+   <li> Caluclate The Interest Ratio Per Month </li> 
+   <li> Sort Certificate </li> 
+   <li> Use Application In [ En - Ar ] Language </li> 
+   <li> User Also able to switch between [ Light - Dark ]  Mode  </li> 
+ </b>
  
 # Tools :
  <b>Power Apps - Microsoft 365</b>
