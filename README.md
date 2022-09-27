@@ -1,7 +1,13 @@
 # Application Name: 
 <b><ul>CerCal</ul></b>
- 
+
+# App Summary : 
+
+this is Certificate Calculator app for banking sector not just a calculator it designed to predict if there is a new certificate what will be it’s interest per month depends on how much money the client have help people to know interest of their certificate 
+
+
 # Description:
+
 <b><ul><li> this is Certificate Calculator CRUD App for banking sector</li> 
    <li> User Can : Add New Certificate </li> 
    <li> Edit on Certificate Ratio </li> 
